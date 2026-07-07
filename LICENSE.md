@@ -1,4 +1,4 @@
-# 
+# Ellevest Desktop is an investing platform designed for women, offering personalized portfolios and financial planning.
 
 
 
